@@ -1,0 +1,4 @@
+Insert & Repair => O(n(lg(n))) time.
+Insert & Repair => O(lg(n)) space.
+
+Recursive DFS.

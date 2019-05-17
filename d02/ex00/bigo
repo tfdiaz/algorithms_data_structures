@@ -1,0 +1,2 @@
+O(n) time, n is the number of unique words;
+O(n) space, n is the number of unique words;

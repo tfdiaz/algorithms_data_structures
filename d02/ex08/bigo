@@ -1,0 +1,2 @@
+O(N/B log {base: M/B, N/B}) time, n elements, M internal mem, b blocks of external memory.
+O(M), space, internal mem.

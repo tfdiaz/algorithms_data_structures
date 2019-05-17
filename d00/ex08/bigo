@@ -1,0 +1,2 @@
+whatWasThat => O(n * m) time, n length of word1 and m is length of word2.
+WhatWasThat => O(n^2) space.

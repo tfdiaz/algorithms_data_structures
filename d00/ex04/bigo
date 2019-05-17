@@ -1,0 +1,2 @@
+howManyJesus => O(n + m) time, worst case O(nm) n is number of elements in text, m is length of word.
+howManyJesus => O(1) space

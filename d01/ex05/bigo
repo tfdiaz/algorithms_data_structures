@@ -1,0 +1,5 @@
+Tank Insert => Amortized O(1) time
+Tank Insert => Amortized O(1) space
+
+Tank Push => O(1);
+Tank Insert => O(1);

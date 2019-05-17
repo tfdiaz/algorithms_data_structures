@@ -1,0 +1,2 @@
+decompress => O(n + m) time, worst case O(n * m) n is number of elements in text, m is number of elements in pattern.
+decompress => O(n) space, n is length of text

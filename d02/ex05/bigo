@@ -1,0 +1,2 @@
+O(log(n) average) time, worst case O(n)
+O(1) space;

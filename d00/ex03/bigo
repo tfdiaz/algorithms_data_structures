@@ -1,0 +1,7 @@
+hash => O(n) time, O(1) space;
+dictInit => O(1) time, O(c) space, capacity;
+dictInsert => O(1) time, O(1) space; Worst case O(n) time based on hash function;
+dictSearch / searchPrice => average O(1) time, worst O(n) time, O(1) space;
+
+
+

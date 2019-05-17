@@ -1,0 +1,5 @@
+pop => O(1) time
+pop => O(1) space
+
+push => O(1) time
+push => O(1) space

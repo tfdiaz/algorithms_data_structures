@@ -1,0 +1,2 @@
+O(n + m)time, n is the number of elements, and m is the range.
+O(n) space

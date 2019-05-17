@@ -1,0 +1,3 @@
+Average O(nlog(n)) time, with n the number of elements in the array.
+Worstcase O(n^2) time, with n the number of elements in the array.
+O(n) space.

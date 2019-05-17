@@ -1,0 +1,2 @@
+O(nlog(n)) time, n is number of elements
+O(n) space.

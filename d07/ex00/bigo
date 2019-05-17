@@ -1,0 +1,2 @@
+O(nlg(n)) time,
+O(lg(n)) space.
